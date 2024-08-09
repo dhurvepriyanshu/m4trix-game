@@ -16,7 +16,7 @@ BLUE = (0, 0, 255)
 
 # Set up the display
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption('Dodge the Falling Blocks')
+pygame.display.set_caption('Deadman.py')
 
 # Set up the clock for frame rate
 clock = pygame.time.Clock()
